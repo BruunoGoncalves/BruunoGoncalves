@@ -3,7 +3,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m @BruunoGoncalves
 - 👀 I'm currently studying to become Full-Stack at Gama Academy.
-- 🌱 I'm currently learning JavaScript and Paid Traffic...
+- 🌱 I'm currently learning JavaScript and JAVA.
 
 
 ## 🌐 Socials:
